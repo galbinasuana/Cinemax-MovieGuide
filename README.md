@@ -69,6 +69,9 @@ Stay informed with real-time updates, reviews, and the latest trends in the film
 The **news widget** automatically refreshes every **60 seconds**, ensuring the latest headlines are always visible.
 
 ![News](images/news.png)
+![News Section 1](images/news_1.png)
+![News Section 2](images/news_2.png)
+![News Section 3](images/news_3.png)
 
 ### Cinema Locator
 
