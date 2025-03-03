@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cinemax</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="news">News</string>
+    <string name="release_year_prompt">Select Release Year</string>
+    <string name="genre_prompt">Select Genre</string>
+    <string name="sort_by_prompt">Select Sort By</string>
+    <string name="movie_poster_description">Poster for the movie</string>
+    <string name="find_nearby_cinemas">Find Nearby Cinemas</string>
+    <string name="discover_movies">Discover Movies</string>
+    <string name="year">Year:</string>
+    <string name="genre">Genre:</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="info_discover_movies">Use the filters above to discover movies based on your preferences. Select the release year, genre, and how you\'d like to sort the results, then click \'Discover\' to see the movies that match your criteria.</string>
+    <string name="welcome_to_cinemax">Welcome to Cinemax!</string>
+    <string name="cinemax_description">Cinemax is your go-to app for the latest movie news, discovering new films to watch, and finding nearby cinemas. Explore the app to discover all the features we offer:</string>
+    <string name="latest_movie_imdb">Latest movie news from IMDb.</string>
+    <string name="find_movies_by">Find movies by year, genre, and popularity.</string>
+    <string name="find_nearby_cinemas_map">Find nearby cinemas on the map.</string>
+    <string name="read_more">Read More</string>
+</resources>
